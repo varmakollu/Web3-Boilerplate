@@ -63,5 +63,8 @@
     "development": [
       "defaults"
     ]
-  }
+  },
+  "main": "index.js",
+  "keywords": [],
+  "license": "ISC"
 }
